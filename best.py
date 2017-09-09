@@ -6,8 +6,8 @@ def main():
     person_b = "Saurav Mittal"
     superlative_b = "*something clever*"
 
-    name = "Daddy DeNero"
-    position = "professor"
+    name = "Oski"
+    position = "Bear"
     print("{0}: {1} is the {2} {3}!".format(person_a, name, superlative_a, position))
     print("{0}: {1} is the {2} {3}!".format(person_b, name, superlative_b, position))
 
