@@ -3,8 +3,8 @@ def main():
     person_a = "Person A"
     superlative_a = "best"
 
-    person_b = "Person B"
-    superlative_b = "worst"
+    person_b = "Saurav Mittal"
+    superlative_b = "*something clever*"
 
     name = "Hilfinger"
     position = "professor"
